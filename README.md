@@ -4,10 +4,10 @@
 
 <p>~~world is small~~<br />
   
-That is so funny 😂</p>
+> That is so funny 😂</p>
 H~2~O </p>
 X^2 </p>
-I need to highlight these
-==very important words== </p>
+I need to highlight these  
+***very important words***
 
 
