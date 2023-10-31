@@ -2,9 +2,12 @@
 **I am Kamila**
 *I am 29 year old*
 
-~~world is small~~
-That is so funny 😂
-H~2~O 
-X^2^ 
-I need to highlight these ==very important words==
+<p>~~world is small~~<br />
+  
+That is so funny 😂</p>
+H~2~O </p>
+X^2 </p>
+I need to highlight these
+==very important words== </p>
+
 
