@@ -1,2 +1,10 @@
-# Hello-world
-my first repository 
+# AboutMyself
+**I am Kamila**
+*I am 29 year old*
+
+~~world is small~~
+That is so funny 😂
+H~2~O 
+X^2^ 
+I need to highlight these ==very important words==
+
